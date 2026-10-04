@@ -1,8 +1,8 @@
 # 灵译
 
-[ **Download Latest APK / 下载最新版** ](https://github.com/locta/lingyi-apk/releases/download/v0.1.0/Lingyi-v0.1.0.apk)
+[ **Download Latest APK / 下载最新版** ](https://github.com/locta/lingyi-apk/releases/download/v0.1.1/Lingyi-v0.1.1.apk)
 
-Version: 0.1.0
+Version: 0.1.1
 
 Updated: 2026-10-04
 

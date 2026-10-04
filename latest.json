@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "appName": "灵译",
   "applicationId": "com.locta.aitranslate",
-  "versionName": "0.1.0",
-  "versionCode": 1001,
-  "tag": "v0.1.0",
-  "fileName": "Lingyi-v0.1.0.apk",
-  "publishedAt": "2026-10-04T16:55:22+00:00",
-  "sha256": "b8974104e5784abc6f06fdcc4266d6ad78991e866e6c6ad9105ef5179782f356",
-  "sizeBytes": 45270798,
+  "versionName": "0.1.1",
+  "versionCode": 1002,
+  "tag": "v0.1.1",
+  "fileName": "Lingyi-v0.1.1.apk",
+  "publishedAt": "2026-10-04T17:10:46+00:00",
+  "sha256": "78503c9256056407046883e02f87509d35e2f6099ed91f67038011e4a94545a3",
+  "sizeBytes": 45301453,
   "signingCertificateSha256": "ed7123ad8a2b2141c11984112371d15be69a326147cba0b0cf2dad957b5ecfd8",
-  "downloadUrl": "https://github.com/locta/lingyi-apk/releases/download/v0.1.0/Lingyi-v0.1.0.apk",
-  "releaseUrl": "https://github.com/locta/lingyi-apk/releases/tag/v0.1.0"
+  "downloadUrl": "https://github.com/locta/lingyi-apk/releases/download/v0.1.1/Lingyi-v0.1.1.apk",
+  "releaseUrl": "https://github.com/locta/lingyi-apk/releases/tag/v0.1.1"
 }
